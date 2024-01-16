@@ -1,0 +1,13 @@
+#Verify the following products page functionality work or not.
+
+
+URL="https://bstackdemo.com"
+
+Acceptance critaria:
+
+1.When i click on "Add to cart" button, the item should be add to cart
+2.When i click on another "Add to cart" button, the item should be add to cart
+3.I should see a list of all items i have added including item name, quantity,price
+4.For each item, i should have option to update the quantities or remove the items
+5.The total cost of all item should be displayed promenently
+6.Then i click on Checkout button for further process
